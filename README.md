@@ -32,3 +32,18 @@ This project analyzes the following KPIs to assess hotel performance:
 6. **Occupancy Rate**:  
    - Percentage of rooms booked per year  
    - Room occupancy segmented by hotel type
+  
+
+
+### Project Process
+
+1. **Build Database**: Load the hotel booking dataset into a relational database for querying.
+  
+2. **Develop SQL Queries**: Write SQL queries to extract insights related to revenue, parking, ADR, and trends.
+
+3. **Connect Power BI**: Link Power BI to the database to import and visualize the data.
+
+4. **Visualize Data**: Create interactive dashboards in Power BI to represent the findings.
+
+5. **Summarize Findings**: Analyze the visualized data and document key insights and recommendations.
+
