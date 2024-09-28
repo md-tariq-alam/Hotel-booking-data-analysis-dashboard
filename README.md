@@ -53,3 +53,15 @@ This project analyzes the following KPIs to assess hotel performance:
 ![Screenshot (3)](https://github.com/user-attachments/assets/f24edd7f-054a-419b-956e-738dbefcbe1b)
 
 
+### Project Insights
+
+- **Revenue Trends**: Analysis showed consistent year-over-year revenue growth, with Resort Hotels performing better than City Hotels.
+- **Parking Utilization**: Current parking space usage indicates no immediate need for expansion, as guest reliance on personal vehicles remains stable.
+- **Seasonality**: Identified peak booking periods during summer and holidays, impacting both revenue and occupancy rates.
+
+### Conclusion
+
+The analysis of hotel booking data provides valuable insights into revenue performance, parking space needs, and seasonal trends. These findings enable hotel management to make informed decisions and strategize for future growth, optimizing operations and enhancing guest experiences.
+
+
+
