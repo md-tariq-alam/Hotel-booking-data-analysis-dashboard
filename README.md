@@ -50,5 +50,6 @@ This project analyzes the following KPIs to assess hotel performance:
 
 
 ## Dashboard
-"C:\Users\Hp\Pictures\Screenshots\Screenshot (3).png"
+![Screenshot (3)](https://github.com/user-attachments/assets/f24edd7f-054a-419b-956e-738dbefcbe1b)
+
 
