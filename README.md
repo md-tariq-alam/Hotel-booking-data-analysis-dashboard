@@ -47,3 +47,8 @@ This project analyzes the following KPIs to assess hotel performance:
 
 5. **Summarize Findings**: Analyze the visualized data and document key insights and recommendations.
 
+
+
+## Dashboard
+"C:\Users\Hp\Pictures\Screenshots\Screenshot (3).png"
+
