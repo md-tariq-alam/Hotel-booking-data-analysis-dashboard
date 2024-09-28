@@ -4,25 +4,31 @@ Hotel Booking Data Analysis and Visualization (PowerBI)
 Objective:
 Analyze hotel booking data to assess revenue growth, parking needs, and identify seasonal trends using SQL and Power BI for data-driven decision-making.
 
-KPIs:
-Revenue Growth:
 
-Total revenue by year - 
-Revenue segmented by hotel type (City Hotel vs Resort Hotel)
-Parking Utilization:
+### Key Performance Indicators (KPIs)
 
-Total car parking spaces required by year -
-Percentage of guests with personal vehicles
-Average Daily Rate (ADR):
+This project analyzes the following KPIs to assess hotel performance:
 
-Average daily rate (ADR) by month and year -
-ADR segmented by hotel type -
-Total Nights Stayed:
+1. **Revenue Growth**:  
+   - Total revenue by year  
+   - Revenue segmented by hotel type (City Hotel vs Resort Hotel)
 
-Total guest nights stayed by year -
-Nights stayed segmented by hotel type -
-Seasonality Trends:
+2. **Parking Utilization**:  
+   - Total car parking spaces required by year  
+   - Percentage of guests with personal vehicles
 
-Monthly revenue and ADR fluctuations -
-Percentage of rooms booked per year -
-Room occupancy segmented by hotel type
+3. **Average Daily Rate (ADR)**:  
+   - Average daily rate (ADR) by month and year  
+   - ADR segmented by hotel type
+
+4. **Total Nights Stayed**:  
+   - Total guest nights stayed by year  
+   - Nights stayed segmented by hotel type
+
+5. **Seasonality Trends**:  
+   - Monthly revenue and ADR fluctuations  
+   - Peak and low seasons in bookings
+
+6. **Occupancy Rate**:  
+   - Percentage of rooms booked per year  
+   - Room occupancy segmented by hotel type
